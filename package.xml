@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<package format="2">
+    <name>eigen_catkin</name>
+    <version>3.4.0</version>
+    <description>Eigen</description>
+
+    <maintainer email="alexander@sherikov.net">Alexander Sherikov</maintainer>
+
+    <license>MPL2</license>
+
+    <buildtool_depend>cmake</buildtool_depend>
+</package>
